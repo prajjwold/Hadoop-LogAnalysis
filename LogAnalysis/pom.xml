@@ -16,7 +16,7 @@
 			<compiler.source>${compiler.target}</compiler.source> <java.compatible.range.version>[1.6,)</java.compatible.range.version> 
 			<maven.compatible.version>3.0.3</maven.compatible.version> <maven.compatible.range.version>[${maven.compatible.version},)</maven.compatible.range.version> -->
 		<guava.version>13.0.1</guava.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<fest-assert.version>1.4</fest-assert.version>
 		<mockito.version>1.9.5</mockito.version>
 		<commons-lang.version>2.6</commons-lang.version>
